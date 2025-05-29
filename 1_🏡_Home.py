@@ -12,7 +12,7 @@ css_file = current_dir / "styles" / "main.css"
 
 resume_file = current_dir / "assets" / "cv_mouad.pdf"
 
-profile_pic = current_dir / "assets" / "home" /"pp.png"
+profile_pic = current_dir / "assets" / "home" /"pp.PNG"
 
 my_zone_pic = current_dir / "assets" / "home" / "my_zone.png"
 
