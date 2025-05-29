@@ -12,7 +12,7 @@ css_file = current_dir / "styles" / "main.css"
 E2E_PIC_PATH = current_dir / "assets" / "personal_projects" / "e2e.png"
 THREE_MODELS_PIC_PATH = current_dir / "assets" / "personal_projects" / "three_models.png"
 # ------------ CONSTANTS ----------
-PAGE_TITLE = "Personal Projects | Et-tali Mouad"
+PAGE_TITLE = "Personal Projects | Bhumika Gupta"
 PAGE_ICON = "🏛"
 
 #-------- PERSONAL PROJECTS CONTENT----------
