@@ -17,7 +17,7 @@ preview_astek = [f"""{current_dir}/assets/work/astek/{example}""" for example in
 preview_alexsys = [f"""{current_dir}/assets/work/alexsys/{example}""" for example in ['home.png','auth.png','add_person.png']]
 
 # ------------ CONSTANTS ----------
-PAGE_TITLE = "Work Experiences | Et-tali Mouad"
+PAGE_TITLE = "Work Experiences | Bhumika Gupta"
 PAGE_ICON = "🏛"
 
 #-------- WORK EXPERIENCE CONTENT----------
