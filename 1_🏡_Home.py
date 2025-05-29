@@ -21,7 +21,7 @@ PAGE_TITLE = "Digital CV | Bhumika Gupta"
 PAGE_ICON = ":wave:"
 NAME = "Bhumika Gupta"
 DESCRIPTION = """
-Data Scientist @ Aqsone,  I help clients optimize their performance with AI and data.
+Data Scientist @ Accenture,  I help clients building dashboards for data visualizations and design & deploy end-to-end data processing pipelines on AWS enabling insights into the data using GenAI.​
 """
 EMAIL = "bhumika.guptahc@gmail.com"
 SOCIAL_MEDIA = {
