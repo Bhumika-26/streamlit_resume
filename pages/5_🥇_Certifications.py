@@ -17,7 +17,7 @@ AWS_CERTIFICATION_PIC_PATH = current_dir / "assets" / "certifications" / "aws_pr
 NLP_CERTIFICATION_PIC_PATH = current_dir / "assets" / "certifications" / "nlp.png"
 
 # ------------ CONSTANTS ----------
-PAGE_TITLE = "Certifications | Et-tali Mouad"
+PAGE_TITLE = "Certifications | Bhumika Gupta"
 PAGE_ICON = "🏛"
 
 #-------- Certifications CONTENT----------

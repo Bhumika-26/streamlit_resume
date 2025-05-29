@@ -5,9 +5,9 @@ from streamlit_extras.switch_page_button import switch_page
 from PIL import Image
 
 # ------------ CONSTANTS ----------
-PAGE_TITLE = "Academia | Et-tali Mouad"
+PAGE_TITLE = "Academia | Bhumika Gupta"
 PAGE_ICON = "🏛"
-NAME = "Et-tali Mouad"
+NAME = "Bhumika Gupta"
 DESCRIPTION = """
 My Academic Journey was always influenced by my love for maths and coding Starting from my Mathematical sciences Baccalaureate down to my latest experience 
 """
